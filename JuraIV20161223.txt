@@ -1,0 +1,58 @@
+Jura Greek
+
+Repo: -coming soon-
+Masters: 2
+Instances: 5
+task: review and fix Greek Monotonic set and Extended Greek set
+
+Review/Approach:
+Jura is a squarish sans-serif, with rounded endings. The Latin has pretty much simplified from the original version so the entire Greek set needs to be retouched.
+
+Changes:
+
+1. Uppercase
+
+Replaced with composites from the Latin where possible:
+Alpha=A, Beta=B, Epsilon=E, Zeta=Z, Eta=H, Theta (round counter)=O, Iota=I, Kappa=K, Mu=M, Nu=N, Omicron=O, Rho=P, Tau=T, Upsilon=Y and Chi=X.
+
+Redesign the rest, since everything has changed.
+
+2. Lowercase
+
+Full redesign of the Greek and I tried to keep some features from the original design.
+In detail the ones that changed significantly are the followings:
+* beta: changed completely, now the counters are more squarish
+* gamma: a more simplified version, wanted to keep a more mechanical approach in this one
+* delta: redesign the counter to a more squarish shape and straightened the diagonal. The curved diagonal of the original design made delta really busy and complicated, especially in smaller sizes.
+* zeta: decided to add the flipped stroke, on the top horizontal of zeta. It reflects the design of latin z and as a rare letter that is in the Greek alphabet, it won't create any problems, even in running text. 
+* theta: the horizontal middle stroke of theta, always touches the counter. Only in the uppercase form is detached.
+* lambda: I made a simplified version, less busy
+* xi: like zeta
+* phi: replaced the lower case phi with a more geometric/typographic shape for the default phi
+* chi: like gamma and lambda, made a more minimal version
+
+
+Modifications of width, stroke weight and optical corrections to glyphs including:
+* alpha
+* beta
+* epsilon
+* eta
+* iota
+* kappa
+* mu
+* nu
+* rho
+* sigma
+* chi
+* omega
+* final sigma
+
+Added the number symbols (2 glyphs), Greek question mark, anoteleia (Greek semicolon) and kai (Greek ampersand).
+
+The original file didn't include any Extended Greek characters, accents, breathings and symbols, so I'm designing them from the beginning.
+
+
+Issues: -
+
+To do: kerning still in progress 
+complete extended set (archaic symbols and numerals)
