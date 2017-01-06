@@ -1,6 +1,6 @@
 Jura Greek
 
-Repo: -coming soon-
+Repo: https://github.com/irenevl/Jura-Greek
 Masters: 2
 Instances: 5
 task: review and fix Greek Monotonic set and Extended Greek set

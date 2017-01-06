@@ -1,0 +1,17 @@
+Jura Greek
+
+Repo: https://github.com/irenevl/Jura-Greek
+Masters: 2
+Instances: 5
+task: review and fix Greek Monotonic set and Extended Greek set
+
+
+Update 06 January 2017:
+
+added extra glyphs to match “Basic Polytonic Set”:
+
+KaiSymbol
+perispomenicomb
+koroniscomb
+dialytikatonoscomb
+ypogegrammenicomb
